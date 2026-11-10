@@ -8,6 +8,8 @@ I turn course material into clean, typeset PDF handouts with diagrams, and I wri
 
 **Everything here is free to read. If something saves you time, a star helps more people find it.**
 
+New handouts and tutorials are announced on X: [@GustavNerniyiz](https://x.com/GustavNerniyiz)
+
 ---
 
 #### Featured
@@ -31,4 +33,4 @@ I turn course material into clean, typeset PDF handouts with diagrams, and I wri
 
 ---
 
-<sub>中文：我整理可视化课程讲义，也写亲手跑通过的 ROS 2 / Ubuntu 教程。全部免费，觉得有用欢迎点个 Star。</sub>
+<sub>中文：我整理可视化课程讲义，也写亲手跑通过的 ROS 2 / Ubuntu 教程。全部免费，觉得有用欢迎点个 Star。更新会发在 X：@GustavNerniyiz。</sub>
